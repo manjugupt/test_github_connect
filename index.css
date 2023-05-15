@@ -1,0 +1,23 @@
+h1{
+    background-color: black;
+    color:white;
+}
+body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+   }
+   a:link{
+    color: rgb(209, 20, 20);
+  
+    text-decoration: none;
+   }
+   h2{
+    background-color: rgb(105, 100, 103);
+    color: black;
+   }
+   ul{
+    color: rgb(44, 44, 201);
+   }
+   p{
+    color: crimson;
+   } 
