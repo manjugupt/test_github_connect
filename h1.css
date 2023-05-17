@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    justify-content: center;
+    text-shadow: 2px 2px 5px red;
+}
+#tribute-data{
+    color: white;
+}
+p{
+    color: whitesmoke;
+}
+h3{
+    color: white;
+}
+h2{
+    color: white;
+}
+h5{
+    color: white;
+}
+ul{
+    color: white;
+}
+a{
+    color: white;
+}
