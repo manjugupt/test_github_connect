@@ -1,0 +1,215 @@
+/* h1{ */
+    /* border: 1px solid red; */
+    /* visibility: hidden; visiblity hidden */
+/* }  */
+/* span{
+    display: inline-block;
+    border: 1px solid red;
+    /* border-radius: 3px; */
+    /* text-align: right; */
+
+/* } */ */
+/* #khus {
+    margin-right: 300px;
+} */
+
+/* span:hover{
+    display: inline-block;
+    width:120px;
+    margin-bottom: 100px;
+
+} */
+/* #span1 {
+    margin-right: 33%;
+    display: none;
+    visibility: none;
+}
+#primary-btm{
+    background-color: rgb(224, 11, 11); */
+/* }
+#primary-btm:hover{
+    background-color: rgb(203, 130, 130);
+}
+input:focus-visible{
+
+} */
+/* div p{
+    background-color: yellow;
+}
+div article{
+    background-color: red;
+} */
+/* div ~ p{
+    background-color: purple;
+}
+div ~ #ptag{
+    background-color: aquamarine;
+} */
+/* ul ::marker{
+       color:red;
+
+}
+/* ::marker{
+    color: green;
+} */
+/* li1 ::marker{ */
+    /* color:  green; */
+/* } */
+/* ::marker{ */
+    /* color: blue; */
+/* } */
+/* ol ::marker{ */
+    /* color: yellow; */
+/* }  */
+/* #ul1 :: marker{
+    color: red;
+}
+ol :: mark{
+    color: yellow; */
+/* }
+#li1 ::marker{
+    color: green;
+}
+#ul1 .comonLi ::marker{
+    color: blue;
+}
+ol .commonLi ::marker{
+    color: blue;
+}
+::placeholder{
+    color: red;
+}
+p ::after{
+    content:'erverefdsfsidhf';
+    color: red;
+    background-color: yellow;
+    text-decoration: underline;
+    border: 1px solid red;
+} */
+/* div{
+    width: 50px;
+    border: 7px solid rgb(184, 3, 3);
+    padding:  10px;
+    line-height: 20px;
+} */
+/* container{
+    background-color: blue;
+    border: blue;
+    width: 100px;
+    outline: 1px solid black; */
+/* }
+.parent{
+    display:flex;
+    flex-direction:  row;
+    justify-content: flex-start;
+} */
+/* div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  } */
+   /* container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* align-content: space-between; */
+    /* justify-content: center; */
+  /* } */ */
+  /* .flex-item {
+    width: 275px;
+    /* height: 75px; */
+    /* background-color: lightskyblue; */
+    /* border: 2px solid darkblue;
+    text-align: center;
+    font-size: 2cm;
+    color: rgb(15, 14, 14);
+    font-weight: bold;
+    line-height:1.4; */ */
+    /* margin: 7px; */
+  /* }
+  #flex-item-1{
+    background-color: lightpink;
+  }
+  #flex-item-2 {
+    background-color: lightskyblue;
+  }
+  #flex-item-3 {
+    background-color: lightgreen;
+  }
+  #flex-item-4 {
+    background-color: lightyellow;
+  }
+  #flex-item-5 {
+    background-color: lightcoral;
+  } */
+  
+  /* body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    padding: 0 20px 30px 0;
+    line-height: 1.4;
+  } */
+  /* .container{
+    display: flex;
+    /* flex-direction: row; */
+     /* flex-direction: column;  */
+    /* justify-content: space;
+    align-items: center;
+    height: 200px;
+    width: 300px; 
+    border: 2px solid black;
+    color: white; 
+  }  */
+  /* .box{
+    height: 200px;
+    width: 250px;
+    border: 2px solid rgb(156, 2, 136);
+    font-size: 40px;
+    margin: 10px;
+     flex-direction: row;
+    align-items: center;
+  } */
+  /* #box1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  
+  } */
+  /* #box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  } */
+  /* #box3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  } */
+   /* .circle-row {
+    display: flex;
+     color: purple; 
+    background-color: rgb(61, 88, 116);
+  } 
+  
+  .circle {
+    display: flex;
+    flex-direction: row;
+    color: purple;
+    justify-content: center;
+    align-items: center;
+    width: 100px; 
+    height: 100px;
+    border-radius: 80%; 
+    background-color: #f1f1f1; 
+    margin: 10px; 
+    font-size: 30px;
+  } */
+  
+ #grad {
+  height: 200px;
+  background-color: red;
+  background-image: linear-gradient(white, blue);
+ }
